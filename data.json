@@ -1,52 +1,82 @@
 {
-  "Color": "#FF5733",
+  "Color": "#25a7e4",
   "Head": {
-    "title": "Jhon Doe | Frontend Developer & Designer",
-    "NavbarName": "Jhon Doe"
+    "title": "Shashank Shah",
+    "NavbarName": "Shashank Shah"
   },
   "HomePage": {
-    "name": "Jhon Doe",
-    "Position": ["Position 1", "Position 2", "Position 3", "Position 4"],
-    "description": "I design and build websites that look good, and work well."
+    "name": "Shashank Shah",
+    "Position": [
+      "Backend Developer",
+      "Cyber Security Enthusiastic",
+      "Software Engineer",
+      ""
+    ],
+    "description": "Passionate Developer who loves to take charge from front"
   },
   "AboutPage": {
-    "AboutParagraph": "I am a frontend developer and designer with a passion for creating beautiful and user-friendly websites and applications. I have a strong background in both web development and graphic design, and I enjoy using my skills to create stunning websites and interfaces that are easy to use and navigate.In my previous work, I have designed and developed websites for a variety of clients, including small businesses, non-profit organizations, and large corporations. I have also created mobile applications and responsive websites that are compatible with a variety of devices and screen sizes. My goal is always to create websites and applications that are visually appealing and user-friendly, and I believe that my skills and experience make me an excellent frontend developer and designer.",
-    "ImageLink": "https://cdn.vectorstock.com/i/1000x1000/23/81/default-avatar-profile-icon-vector-18942381.webp"
+    "AboutParagraph": "Highly motivated and optimistic individual with a natural talent for leadership and a passion for learning. I am capable of multitasking effectively and working efficiently under pressure. My positive attitude and eagerness to learn allow me to adapt quickly to new environments and technologies.",
+    "ImageLink": "https://drive.google.com/file/d/17n4-iElmxsWLYK2qpWH0OCK7MtmP3e4S/view?usp=share_link"
   },
-  "Skills": ["Html", "Bootstrap", "Figma"],
+  "Skills": [
+    "NodeJs",
+    "Leadership",
+    "Problem Solving",
+    "Communication",
+    "Adaptability",
+    "Backend Development"
+  ],
   "Projects": [
     {
-      "title": "Project Title1",
-      "ImageLink": "/",
-      "Status": "Completed",
-      "ProjectName": "Project Name1",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title2",
-      "ImageLink": "/",
-      "Status": "Completed",
-      "ProjectName": "Project Name2",
-      "Technologies": ["REACT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 2 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title3",
-      "ImageLink": "/",
+      "title": "ScholarShelf",
+      "ImageLink": "https://drive.google.com/file/d/1G6-ckBbo8FuKfi2ibYEfN2wF4IkRR1a8/view?usp=share_link",
       "Status": "Working On it",
-      "ProjectName": "Project Name3",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 3 ",
+      "ProjectName": "ScholarShelf",
+      "Technologies": [
+        "NodeJs",
+        "MongoDB",
+        "ExpressJs",
+        "ReactJS",
+        "Cloud"
+      ],
+      "Description": "College Material Website which provides all materials, projects of different fields and different technologies.",
+      "DemoLink": "https://scholarshelf.vercel.app/"
+    },
+    {
+      "title": "Care Bank",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "Care Bank",
+      "Technologies": [
+        "PHP",
+        "MySQL",
+        "Bootstrap",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "Description": "Banking Website developed in PHP MySQL which covers all basic banking facilities like transfer money, opening account request, approve or reject by branch manager, otp verfication etc.",
+      "DemoLink": "https://sgpsem3.000webhostapp.com/"
+    },
+    {
+      "title": "mPigeon - Chat Application",
+      "ImageLink": "https://github.com/Shashank1719/mPigeon",
+      "Status": "Completed",
+      "ProjectName": "mPigeon - Chat Application",
+      "Technologies": [
+        "Application Development",
+        "Android",
+        "Java",
+        "Firebase"
+      ],
+      "Description": "Android Mobile chat application developed in Java and firebase which provides user to chat with other person by using mPigeon \"Made in India, Made for India\"",
       "DemoLink": ""
     }
   ],
   "Contact": {
-    "Email": "johndoe@gmail.com",
-    "Github": "https://github.com/johndoe",
-    "Twitter": "https://twitter.com/johndoe",
-    "LinkedIn": "https://linkedin.com/in/johndoe"
+    "Email": "shashankshah367@gmail.com",
+    "Github": "https://github.com/Shashank1719",
+    "Twitter": "https://twitter.com/shashan63563151",
+    "LinkedIn": "https://www.linkedin.com/in/shashank1719"
   }
 }
