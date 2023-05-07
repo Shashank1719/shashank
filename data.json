@@ -9,14 +9,13 @@
     "Position": [
       "Backend Developer",
       "Cyber Security Enthusiastic",
-      "Software Engineer",
-      ""
+      "Software Engineer"
     ],
     "description": "Passionate Developer who loves to take charge from front"
   },
   "AboutPage": {
     "AboutParagraph": "Highly motivated and optimistic individual with a natural talent for leadership and a passion for learning. I am capable of multitasking effectively and working efficiently under pressure. My positive attitude and eagerness to learn allow me to adapt quickly to new environments and technologies.",
-    "ImageLink": "https://drive.google.com/file/d/17n4-iElmxsWLYK2qpWH0OCK7MtmP3e4S/view?usp=share_link"
+    "ImageLink": "https://drive.google.com/uc?export=view&id=17n4-iElmxsWLYK2qpWH0OCK7MtmP3e4S"
   },
   "Skills": [
     "NodeJs",
@@ -24,12 +23,13 @@
     "Problem Solving",
     "Communication",
     "Adaptability",
-    "Backend Development"
+    "Backend Development",
+    "Critical Thinking"
   ],
   "Projects": [
     {
       "title": "ScholarShelf",
-      "ImageLink": "https://drive.google.com/file/d/1G6-ckBbo8FuKfi2ibYEfN2wF4IkRR1a8/view?usp=share_link",
+      "ImageLink": "https://drive.google.com/uc?export=view&id=1G6-ckBbo8FuKfi2ibYEfN2wF4IkRR1a8",
       "Status": "Working On it",
       "ProjectName": "ScholarShelf",
       "Technologies": [
@@ -44,7 +44,7 @@
     },
     {
       "title": "Care Bank",
-      "ImageLink": "",
+      "ImageLink": "https://drive.google.com/uc?export=view&id=1E9aleQ6kIFT2B4ucxEuKzmrcYvjyKwRG",
       "Status": "Completed",
       "ProjectName": "Care Bank",
       "Technologies": [
@@ -60,7 +60,7 @@
     },
     {
       "title": "mPigeon - Chat Application",
-      "ImageLink": "https://github.com/Shashank1719/mPigeon",
+      "ImageLink": "https://drive.google.com/uc?export=view&id=1EBw1tNK2-AdzPcX7r9H1HV1oUQWZktjY",
       "Status": "Completed",
       "ProjectName": "mPigeon - Chat Application",
       "Technologies": [
@@ -70,7 +70,7 @@
         "Firebase"
       ],
       "Description": "Android Mobile chat application developed in Java and firebase which provides user to chat with other person by using mPigeon \"Made in India, Made for India\"",
-      "DemoLink": ""
+      "DemoLink": "https://github.com/Shashank1719/mPigeon"
     }
   ],
   "Contact": {
