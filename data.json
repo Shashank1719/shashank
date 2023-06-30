@@ -9,7 +9,7 @@
     "Position": [
       "Backend Developer",
       "Cyber Security Enthusiastic",
-      "Software Engineer"
+      "Cloud Enthusiastic"
     ],
     "description": "Passionate Developer who loves to take charge from front"
   },
@@ -18,13 +18,11 @@
     "ImageLink": "https://drive.google.com/uc?export=view&id=17n4-iElmxsWLYK2qpWH0OCK7MtmP3e4S"
   },
   "Skills": [
-    "NodeJs",
     "Leadership",
-    "Problem Solving",
     "Communication",
     "Adaptability",
     "Backend Development",
-    "Critical Thinking"
+    "Cloud Computing"
   ],
   "Projects": [
     {
@@ -36,8 +34,7 @@
         "NodeJs",
         "MongoDB",
         "ExpressJs",
-        "ReactJS",
-        "Cloud"
+        "ReactJS"
       ],
       "Description": "College Material Website which provides all materials, projects of different fields and different technologies.",
       "DemoLink": "https://scholarshelf.vercel.app/"
@@ -52,7 +49,6 @@
         "MySQL",
         "Bootstrap",
         "HTML",
-        "CSS",
         "JavaScript"
       ],
       "Description": "Banking Website developed in PHP MySQL which covers all basic banking facilities like transfer money, opening account request, approve or reject by branch manager, otp verfication etc.",
@@ -71,6 +67,32 @@
       ],
       "Description": "Android Mobile chat application developed in Java and firebase which provides user to chat with other person by using mPigeon \"Made in India, Made for India\"",
       "DemoLink": "https://github.com/Shashank1719/mPigeon"
+    }
+    {
+      "title": "NodeJS CRUD App",
+      "ImageLink": "https://drive.google.com/file/d/1MjBx8yFFwcMsi45q2YhWQaexWPGv8lWi/view?usp=sharing",
+      "Status": "Completed",
+      "ProjectName": "Personal Project",
+      "Technologies": [
+        "NodeJS",
+        "MongoDB",
+        "ExpressJS"
+      ],
+      "Description": "CRUD app for task creation and deletion",
+      "DemoLink": "https://github.com/Shashank1719/Nodejs-todo-app"
+    }
+    {
+      "title": "NodeJS Login Register",
+      "ImageLink": "https://drive.google.com/file/d/1MjBx8yFFwcMsi45q2YhWQaexWPGv8lWi/view?usp=sharing",
+      "Status": "Completed",
+      "ProjectName": "Personal Project",
+      "Technologies": [
+        "NodeJS",
+        "MongoDB",
+        "ExpressJS"
+      ],
+      "Description": "Learning Authentication in NodeJS",
+      "DemoLink": "https://github.com/Shashank1719/Nodejs-login-register"
     }
   ],
   "Contact": {
